@@ -1,0 +1,11 @@
+version: 3.5.6
+files:
+  - url: speechlive-3.5.6-arm64.zip
+    sha512: LPaGIdr3/5pyYorr66Y07PK/k9FgcDNloC20Hw+HpELpC864vnK7qonXBnLtSGtgwZ8bhfrtysvCy0vULWXCnw==
+    size: 605532393
+  - url: speechlive-3.5.6-arm64.dmg
+    sha512: HE1SixpcFiLICXNbRTL2C+JdOL54StlhpyRmCikV0FpdLX+n0hHOos96uhMShkfnqIMb401L27/jROmsyXuXXw==
+    size: 623383100
+path: speechlive-3.5.6-arm64.zip
+sha512: LPaGIdr3/5pyYorr66Y07PK/k9FgcDNloC20Hw+HpELpC864vnK7qonXBnLtSGtgwZ8bhfrtysvCy0vULWXCnw==
+releaseDate: '2024-01-15T22:06:12.984Z'
