@@ -1,0 +1,11 @@
+version: 3.5.10
+files:
+  - url: speechlive-3.5.10-arm64.zip
+    sha512: 38dB1DQWmG3JGLU4kjfpyZ+Axi3KDTLtSle/kK/NrrsiVqUeUVd3nmjSjUeYfp1pBiA+hsJH9AIe8tAhaMgQ3Q==
+    size: 243280460
+  - url: speechlive-3.5.10-arm64.dmg
+    sha512: KojLqCjmkF5tEI4Me2+iGvP9p7skMVqS3vrIw+enO2WSDevzHY3J1OKPdijy9UPG2T0OJQk5d5aepZUPAo2ckg==
+    size: 253975505
+path: speechlive-3.5.10-arm64.zip
+sha512: 38dB1DQWmG3JGLU4kjfpyZ+Axi3KDTLtSle/kK/NrrsiVqUeUVd3nmjSjUeYfp1pBiA+hsJH9AIe8tAhaMgQ3Q==
+releaseDate: '2024-01-17T14:14:02.623Z'
